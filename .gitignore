@@ -1,0 +1,18 @@
+# Put the files that will be ignored for Git here.
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Ignore virtual environments (files and directories).
+.env/
+.venv/
+env/
+venv/
+
+# Ignore .env files.
+.env
+
+# Ignore build and dist directories.
+build/
+dist/

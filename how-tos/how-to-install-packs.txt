@@ -1,0 +1,8 @@
+# Install spacy
+pip install spacy --upgrade
+
+# Install portuguese language module for spaCy.
+python -m spacy download pt_core_news_sm
+
+# Install this module to work with displacy on web.
+python -m spacy download en_core_web_sm
