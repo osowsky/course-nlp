@@ -6,3 +6,12 @@ python -m spacy download pt_core_news_sm
 
 # Install this module to work with displacy on web.
 python -m spacy download en_core_web_sm
+
+# Install (numpy), and matplotlib
+pip install matplotlib
+
+# Install TensorFlow, Pandas, SeaBorn, and scikit-learn.
+pip install tensorflow   (machine learning: tf.keras: deep learning API)
+pip install pandas       (data analysis)
+pip install seaborn      (statisstical data visualization)
+pip install scikit-learn (machine learning)
