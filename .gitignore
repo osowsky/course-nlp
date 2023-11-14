@@ -11,8 +11,11 @@ env/
 venv/
 
 # Ignore .env files.
-.env
+*.env
 
 # Ignore build and dist directories.
 build/
 dist/
+
+# Ignore .csv files.
+*.csv
