@@ -1,0 +1,1 @@
+https://raw.githubusercontent.com/alan-barzilay/NLPortugues/master/Semana%2004/data/word2vec_200k.txt

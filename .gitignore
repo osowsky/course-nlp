@@ -19,3 +19,6 @@ dist/
 
 # Ignore .csv files.
 *.csv
+
+# Ignore dataset file for the week_04
+word2vec_200k.txt

@@ -15,3 +15,10 @@ pip install tensorflow   (machine learning: tf.keras: deep learning API)
 pip install pandas       (data analysis)
 pip install seaborn      (statisstical data visualization)
 pip install scikit-learn (machine learning)
+
+# Istall wget to download the datasets.
+# dont install wget, instead install python3-wget
+pip install python3-wget
+
+# Install gensim to work on word2vec.
+pip install gensim
